@@ -1,0 +1,35 @@
+font- roboto
+header- ATHLETS (90px #E7E7E7)
+retangle color - (#5C37B7)
+
+01- CONNECTION (36px #C2C2C2) 
+    Connect with coaches directly, you can ping coaches to view profile. (20px black)
+02-COLLABORATION
+    Work with other student athletes to  increase visability. When you share and like other players videos it will increase your visability as a player. This is the team work aspect to Surface 1.
+03-GROWTH (36px #C2C2C2)
+    Resources and tools for you to get better as a student Athelte. 
+    Access to training classes, tutor sessions, etc 
+
+header - PLAYERS
+01-CONNECTION
+    Connect with talented athlete directly, you can watch their 
+    skills through video showreels directly from Surface 1.
+02-COLLABORATION
+    Work with recruiter to increase your chances of finding
+    talented athlete.
+03-GROWTH
+    Save your time, recruit proper athlets for your team.
+  <div className=" flex space-x-4">
+        <button
+          className=" w-1 h-1 rounded-full bg-blue-900"
+          // onClick={showDiv(1)}
+        ></button>
+        <button
+          className=" w-1 h-1 rounded-full bg-blue-900"
+          // onClick={showDiv(2)}
+        ></button>
+        <button
+          className=" w-1 h-1 rounded-full bg-blue-900"
+          // onClick={showDiv(1)}
+        ></button>
+      </div>
