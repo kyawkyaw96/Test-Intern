@@ -1,0 +1,10 @@
+{
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "on"
+  },
+  "html.autoClosingTags": true,
+  "files.autoSave": "onFocusChange",
+  "html.suggest.html5": true
+}
